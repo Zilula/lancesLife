@@ -14,14 +14,14 @@ If in the following bit of blog I`m going to (poorly) explain some basic concept
 
 Alright so first off we have this object called 'state' which as mentioned above is a to store all the different variables and their, well current state. Right now fontColor is default set to white, but there is an option/selector that allows the user to change the color to black. When the change is made,  it fires a function called 'handleChange' which updates the appropriate state key and value. 
 
-![First photo](./2)
+![First photo](./2.png)
 
 These state variables are then passed down during binding and prop drilling into child components where that child may then render using the props/data. 
 
 
-![Second photo](./1)
+![Second photo](./1.png)
 
 Here we still a component called 'Controls' which contains a form that takes all the various inputs that are needed to generate the meme. Font, captions, color, and URL. All of these have fired that function 'handleChange' as mentioned above to update the parent component in of the change. 
-![Third photo](./3)
+![Third photo](./3.png)
 
 And thats all she wrote folks. See ya next time.
