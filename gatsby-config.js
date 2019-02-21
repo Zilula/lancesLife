@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Lance's life`,
+    title: `Lance's life.`,
     author: `Lance Merrill`,
     description: `A blog dedicated to my experience with code school, learning new technology and breaking into the PDX tech scene.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
