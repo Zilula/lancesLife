@@ -1,5 +1,5 @@
 ---
-title: React 103  W/ redux -- Actions, Selectors and Reducers oh my. 
+title: React 103  W/ redux -- Actions, Selectors and Reducers oh my. Pt.1 
 date: "2019-02-26"
 ---
 
