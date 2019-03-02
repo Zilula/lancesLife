@@ -10,7 +10,7 @@ const initialState = {
     notes: [{ title: 'TITLE', body: 'BODY' }, { title: 'TITLE2', body: 'BODY2' }]
 };
 ```
-You could write a selector tha return the entire array of item like this.
+You could write a selector that return the entire array of item like this.
 
 ``` 
 export const getNotes = state => {
