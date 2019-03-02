@@ -1,5 +1,5 @@
 ---
-title: React 103 -- Redux selectors
+title: React 103 W/redux -- Redux selectors
 date: "2019-03-01"
 ---
 Part two of dive into redux we are going to talk about selectors. Fortunately, selectors are incredibly simple. They go to our store and 'select' and return some variables from our store. 
