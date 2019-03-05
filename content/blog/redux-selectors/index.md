@@ -17,6 +17,6 @@ export const getNotes = state => {
     return state.notes;
 };
 ``` 
-This reducer takes the state as a prop and simply returns the array of notes. Simple.
+This reducer takes the state as a prop and returns the array of notes.
 
 In the next post, I`m gonna introduce reducers and finally, how they all come together. 
