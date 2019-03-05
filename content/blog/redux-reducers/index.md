@@ -15,7 +15,7 @@ If a 'UPDATE_TITLE' action gets fired we spread out state object into a new obje
 
 The same logic applies to update the subtitle. Finally, we add a default case to return our current state in case we get passed an action that we haven't accounted for.
 
-![subtitle]'./subtitle.png)
+![subtitle]()./subtitle.png)
 
 This default case allows for the preservation of our state and prevents it from being reset or lost because of a bug or something. 
 
