@@ -23,6 +23,6 @@ Okay so all these small parts separately are fine and dandy but what does the bi
 
 ![React-Redux](./React-Redux.jpg)
 
-Kate is an amazing artist who drew this and other helpful code images. Check out her twitter here. 
+Kate is an amazing artist who drew this and other helpful code related images. Check out her twitter here. 
 
 [Kate`s Twitter](https://twitter.com/katerj)
