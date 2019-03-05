@@ -25,4 +25,4 @@ Okay so all these small parts separately are fine and dandy but what does the bi
 
 Kate is an amazing artist who drew this and other helpful code images. Check out her twitter here. 
 
-[a link](https://twitter.com/katerj)
+[Kate`s Twitter](https://twitter.com/katerj)
