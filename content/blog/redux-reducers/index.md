@@ -19,7 +19,7 @@ The same logic applies to update the subtitle. Finally, we add a default case to
 
 This default case allows for the preservation of our state and prevents it from being reset or lost because of a bug or something. 
 
-Okay so all these small parts separately are fine and dandy but what does the big picture look like? This beautifully drawn image of the react-redux lifecycle illustrates how each component flows together. There are also numbers labels the sequence one might take when building a react-redux application. 
+Okay so all these small parts separately are fine and dandy but what does the big picture look like? This beautifully drawn image of the react-redux lifecycle illustrates how each component flows together. There are also numbers labeling the sequence one might take when building a react-redux application. 
 
 ![React-Redux](./React-Redux.jpg)
 
