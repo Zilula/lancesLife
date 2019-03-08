@@ -17,7 +17,8 @@ Was I getting an array of posts to filter by in the first place?
 I wasn't. At each point what I thought I was doing, was not what was actually happening. Turns out I could not set a variable equal to what gets returned from an API because the function would use the variable before the variable contains any actual data. 
 For reference, this is what the final function looks like. 
 
-``` export const getPostsBySearch = (state) => {
+``` 
+export const getPostsBySearch = (state) => {
   const searchTerm = getSearchTerm(state);
   const filtered = getPosts(state).filter(post => {
     const { title } = post;
@@ -41,6 +42,7 @@ export const getPostsBySearch = (state) => {
     return filtered;
 } 
 ```
+
 But you can`t do that because posts return a promise to be resolved at a later date. So if I wanted to go down the route I would need to render the remaining part of the function in a then block or use a promise.resolve or some sort of async-await. 
 
 Using the test below I could visibly see that my original function was not doing the things. Or even part of the things. 
