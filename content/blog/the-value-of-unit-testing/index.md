@@ -16,6 +16,7 @@ Was I getting the search term back from the redux/state?
 Was I getting an array of posts to filter by in the first place?
 I wasn't. At each point what I thought I was doing, was not what was actually happening. Turns out I could not set a variable equal to what gets returned from an API because the function would use the variable before the variable contains any actual data. 
 For reference, this is what the final function looks like. 
+
 ``` export const getPostsBySearch = (state) => {
   const searchTerm = getSearchTerm(state);
   const filtered = getPosts(state).filter(post => {
@@ -24,7 +25,8 @@ For reference, this is what the final function looks like.
 
   });
   return filtered;
-} ```
+} 
+```
 
 Originally I was trying to set  ``` getPosts(state)``` equal to a variable like 'posts'
 and call the function like...
