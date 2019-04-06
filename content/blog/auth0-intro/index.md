@@ -3,8 +3,6 @@ title: React 105 -- Intro to Auth0.
 date: "2019-03-17"
 ---
 
-Intro to Auth0
-
 Last week I built a Twitter clone which as you probably could guess is an app that mimics twitters functionally. Beep! (my poorly named app) uses React and Redux on the front end and MongoDB with Mongoose to generate data schemas and store things. The two ends are pulled together using Auth0. Auth0 is a user authorization software who uses OAuth to verify user identities. But what is OAuth? OAuth is a massively popular authorization framework or protocol that allows applications to verify people without having them directly transmit their passwords. 
 
 You've probably used OAuth before without even knowing it. Any time an application allows you to sign in with multiple methods, ie 'Sign up with Facebook!' or 'Login in with your Google+ account' OAuth is probably being used. It works by gaining access to checking your identity against that of the second site you used to log in with. It is also helpful to remember that OAuth is about authorization in particular and not directly about authentication. 
