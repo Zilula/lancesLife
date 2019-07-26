@@ -1,5 +1,5 @@
 ---
-title: Life .
+title: Life.
 date: "2019-07-26"
 ---
 
