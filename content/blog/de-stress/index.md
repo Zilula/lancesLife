@@ -7,4 +7,4 @@ This is really just a post to tell you to get some loving from your pet. I was l
 
 I'd like to thank my cat, Spot, for the cuddles. 
 
-Thats it. Thats the post.
+That's it. That's the post.
