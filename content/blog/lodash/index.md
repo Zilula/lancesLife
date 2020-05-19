@@ -1,3 +1,10 @@
+---
+title: Lodash.
+date: "2020-01-26"
+---
+
+
+
 Figured it was a good time to make a blog posting seeing as I haven't posted in what feels like an entirely even through it been maybe 3? months. Either way. Today I'm going to tell you all about Lodash and why you should be using it. 
 
 Lodash is the predecessor of underscore JS which is essentially a collection of javascript methods. Some have been built into ES6/ES8 things like reduce, map, filter, etc. Common javascript array methods. However, Lodash takes it to another level by applying all these tools to collections/objects. Furthermore, it also has more functions that you will ever need. so I'm gonna list 10 of the most common methods I use every day.
