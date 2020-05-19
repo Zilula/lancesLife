@@ -1,6 +1,6 @@
 ---
 title: WTF are Data Structures and Algorithms.
-date: "2020-03-25"
+date: "2020-05-18"
 ---
 ![Me tryna solve DS problems]('./yb.jpg)
 
