@@ -2,7 +2,9 @@
 title: Data Structures.
 date: "2020-05-18"
 ---
-![Me tryna solve DS problems]('./yb.jpg)
+
+Me tryna solve data structure problems
+![Me tryna solve DS problems](./yb.jpg)
 
 What are data structures in Computer Science/Web Development/JavaScript? Well up until 2 days ago I had examples of what they looked like but not how they actually work. Meaning what is their goal? The following will be my definition of a various data structures or general definitions.
 
